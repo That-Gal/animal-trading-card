@@ -1,0 +1,49 @@
+/* add your CSS here */
+
+
+/*Link to Google Font*/
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
+
+
+.container {
+	/*text-align: center;*/
+	border: solid black 3px;
+	width: 310px;
+	padding: 20px;
+	box-shadow: 10px 10px gray;
+	
+}
+
+#list {
+	list-style-type: none;
+	padding: 20px;
+}
+
+#title {
+	font-family:'Sedgwick Ave Display', cursive;
+	font-size: 30px;
+}
+
+#picture {
+	width: 300px;
+	height: 200px;
+	border: solid black 3px;
+}
+
+#animal-info {
+	border: solid black 3px;
+	width: 300px;
+}
+
+#intresting-fact {
+	padding: 20px;
+	font-style: italic;
+}
+
+#description {
+	padding: 20px;
+}
+
+.list-item {
+	font-weight: bold;
+}
